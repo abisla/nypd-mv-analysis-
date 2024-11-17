@@ -1,6 +1,6 @@
 
 # OVERVIEW:
-Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on nycopendata.socrata.com. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From July 2012 to March 2022, the data included almost 2,00,000 observations.
+Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on nycopendata.socrata.com. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From Septemer 2017 to September 2024, the data included almost 2,00,000 observations.
 
 BRIEF -
 We accessed the data from "nycopendata.com" using Open Data API (OData API) and performed Data Connection with Tableau.
@@ -65,7 +65,7 @@ B) Time Series Analysis -
 
 ## INSIGHTS:
 - Between 4 pm to 5 pm was the peak time of the day when the maximum number of people got injured.
-- The number of people getting injured was rising from 2012 and was at its peak in 2018 with a value of 123,859 injuries.
+- The number of people getting injured was rising from 2017 and was at its peak in 2019 with a value of 123,859 injuries.
 - In 2018, the total number of injured people decreased to 29,604 injuries in 2022.
 - The highest number of deaths and injuries were majorly caused by a lack of Driver’s attention. The other factors also point toward the Driver’s lack of driving skills.
 - Most of the accidents were caused by Sports utility/Station wagon vehicles, followed by Sedan and Passenger vehicles.
